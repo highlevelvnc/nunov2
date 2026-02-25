@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "properties": "Propriedades",
+    "sell": "Vender",
+    "about": "Sobre",
+    "services": "Serviços",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "cta": "Marcar Visita"
+  },
+  "home": {
+    "headline": "Lisboa, casa a casa.",
+    "subheadline": "Comprar ou vender em Lisboa com acompanhamento real, respostas rápidas e resultados concretos.",
+    "cta_visit": "Marcar Visita",
+    "cta_eval": "Pedir Avaliação",
+    "cta_whatsapp": "WhatsApp",
+    "properties_title": "Imóveis Disponíveis",
+    "testimonials_title": "O que Dizem os Nossos Clientes",
+    "stats_deals": "Negócios Fechados",
+    "stats_years": "Anos de Experiência",
+    "stats_days": "Dias Médios de Venda",
+    "stats_satisfaction": "Satisfação"
+  },
+  "property": {
+    "price": "Preço",
+    "bedrooms": "Quartos",
+    "bathrooms": "Casas de Banho",
+    "area": "Área",
+    "floor": "Piso",
+    "year": "Ano",
+    "condo_fee": "Condomínio",
+    "features": "Características",
+    "description": "Descrição",
+    "schedule": "Marcar Visita",
+    "whatsapp": "Falar no WhatsApp",
+    "download_pdf": "Download Ficha PDF",
+    "showroom": "Ver em Showroom",
+    "for_sale": "Para Venda",
+    "sold": "Vendido",
+    "reserved": "Reservado",
+    "filters": "Filtros",
+    "all_neighborhoods": "Todos os Bairros",
+    "all_types": "Todas as Tipologias",
+    "search_placeholder": "Procurar por bairro ou referência..."
+  },
+  "sell": {
+    "title": "Vender com a Nuno Reis Team",
+    "subtitle": "Avaliação realista. Estratégia de venda. Resultados.",
+    "step1_title": "Avaliação Gratuita",
+    "step1_desc": "Avaliamos o seu imóvel com dados reais do mercado, sem compromisso.",
+    "step2_title": "Estratégia de Angariação",
+    "step2_desc": "Definimos preço, captamos imagens profissionais e divulgamos nos canais certos.",
+    "step3_title": "Negociação e Fecho",
+    "step3_desc": "Acompanhamos todo o processo até à escritura, sem surpresas.",
+    "form_title": "Pedir Avaliação Gratuita",
+    "form_name": "Nome",
+    "form_phone": "Telefone",
+    "form_email": "Email",
+    "form_address": "Morada do Imóvel",
+    "form_type": "Tipologia",
+    "form_message": "Mensagem (opcional)",
+    "form_submit": "Pedir Avaliação"
+  },
+  "about": {
+    "title": "A Equipa",
+    "subtitle": "Profissionais focados no mercado residencial de Lisboa.",
+    "mission_title": "A Nossa Missão",
+    "mission_text": "Tornar cada compra ou venda numa experiência clara, eficiente e sem stress. Sem promessas irreais. Com resultados reais."
+  },
+  "contact": {
+    "title": "Contacto",
+    "address": "Lisboa, Portugal",
+    "phone": "Telefone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "form_title": "Enviar Mensagem",
+    "form_name": "Nome",
+    "form_email": "Email",
+    "form_message": "Mensagem",
+    "form_submit": "Enviar"
+  },
+  "showroom": {
+    "exit": "Sair do Showroom",
+    "slide_hero": "Apresentação",
+    "slide_location": "Localização",
+    "slide_specs": "Especificações",
+    "slide_highlights": "Destaques",
+    "slide_visit": "Agendar Visita",
+    "schedule": "Agendar Visita",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Privacidade",
+    "terms": "Termos"
+  }
+}

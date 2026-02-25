@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "properties": "Properties",
+    "sell": "Sell",
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cta": "Book a Visit"
+  },
+  "home": {
+    "headline": "Lisbon, home by home.",
+    "subheadline": "Buy or sell in Lisbon with real support, fast responses and concrete results.",
+    "cta_visit": "Book a Visit",
+    "cta_eval": "Get Valuation",
+    "cta_whatsapp": "WhatsApp",
+    "properties_title": "Available Properties",
+    "testimonials_title": "What Our Clients Say",
+    "stats_deals": "Deals Closed",
+    "stats_years": "Years Experience",
+    "stats_days": "Average Days to Sell",
+    "stats_satisfaction": "Satisfaction"
+  },
+  "property": {
+    "price": "Price",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "area": "Area",
+    "floor": "Floor",
+    "year": "Year",
+    "condo_fee": "Condo Fee",
+    "features": "Features",
+    "description": "Description",
+    "schedule": "Book a Visit",
+    "whatsapp": "Chat on WhatsApp",
+    "download_pdf": "Download PDF Sheet",
+    "showroom": "View in Showroom",
+    "for_sale": "For Sale",
+    "sold": "Sold",
+    "reserved": "Reserved",
+    "filters": "Filters",
+    "all_neighborhoods": "All Neighborhoods",
+    "all_types": "All Types",
+    "search_placeholder": "Search by neighborhood or reference..."
+  },
+  "sell": {
+    "title": "Sell with Nuno Reis Team",
+    "subtitle": "Realistic valuation. Sales strategy. Results.",
+    "step1_title": "Free Valuation",
+    "step1_desc": "We value your property with real market data, no commitment.",
+    "step2_title": "Listing Strategy",
+    "step2_desc": "We set the price, capture professional images and promote on the right channels.",
+    "step3_title": "Negotiation & Closing",
+    "step3_desc": "We accompany the entire process until the deed, no surprises.",
+    "form_title": "Request Free Valuation",
+    "form_name": "Name",
+    "form_phone": "Phone",
+    "form_email": "Email",
+    "form_address": "Property Address",
+    "form_type": "Type",
+    "form_message": "Message (optional)",
+    "form_submit": "Request Valuation"
+  },
+  "about": {
+    "title": "The Team",
+    "subtitle": "Professionals focused on the Lisbon residential market.",
+    "mission_title": "Our Mission",
+    "mission_text": "To make every purchase or sale a clear, efficient and stress-free experience. No unrealistic promises. Real results."
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Lisbon, Portugal",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "form_title": "Send Message",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_message": "Message",
+    "form_submit": "Send"
+  },
+  "showroom": {
+    "exit": "Exit Showroom",
+    "slide_hero": "Overview",
+    "slide_location": "Location",
+    "slide_specs": "Specifications",
+    "slide_highlights": "Highlights",
+    "slide_visit": "Schedule Visit",
+    "schedule": "Schedule a Visit",
+    "whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}
